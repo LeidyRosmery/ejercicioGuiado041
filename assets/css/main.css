@@ -13,8 +13,8 @@
 .gold{
   background-color: #f0c5cf;
 }
-input[type="button"], button {
-  border-radius: :50%;
+input[type="button"],button {
+  border-radius:50%;
   border-style: none;
   width: 19%;
   height: 21%;
